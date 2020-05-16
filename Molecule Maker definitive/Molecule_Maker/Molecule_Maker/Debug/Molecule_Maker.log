@@ -1,0 +1,11 @@
+﻿  Molecule_Maker.cpp
+C:\Users\mathi\OneDrive\Documenten\Projecten\C++\Molecule Maker definitive\Molecule_Maker\Molecule_Maker\Molecule_Maker.cpp(226,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mathi\OneDrive\Documenten\Projecten\C++\Molecule Maker definitive\Molecule_Maker\Molecule_Maker\Molecule_Maker.cpp(233,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mathi\OneDrive\Documenten\Projecten\C++\Molecule Maker definitive\Molecule_Maker\Molecule_Maker\Molecule_Maker.cpp(247,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mathi\OneDrive\Documenten\Projecten\C++\Molecule Maker definitive\Molecule_Maker\Molecule_Maker\Molecule_Maker.cpp(255,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mathi\OneDrive\Documenten\Projecten\C++\Molecule Maker definitive\Molecule_Maker\Molecule_Maker\Molecule_Maker.cpp(341,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mathi\OneDrive\Documenten\Projecten\C++\Molecule Maker definitive\Molecule_Maker\Molecule_Maker\Molecule_Maker.cpp(613,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mathi\OneDrive\Documenten\Projecten\C++\Molecule Maker definitive\Molecule_Maker\Molecule_Maker\Molecule_Maker.cpp(616,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mathi\OneDrive\Documenten\Projecten\C++\Molecule Maker definitive\Molecule_Maker\Molecule_Maker\Molecule_Maker.cpp(626,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mathi\OneDrive\Documenten\Projecten\C++\Molecule Maker definitive\Molecule_Maker\Molecule_Maker\Molecule_Maker.cpp(634,32): warning C4018: '>': signed/unsigned mismatch
+  Molecule_Maker.vcxproj -> C:\Users\mathi\OneDrive\Documenten\Projecten\C++\Molecule Maker definitive\Molecule_Maker\Debug\Molecule_Maker.exe
