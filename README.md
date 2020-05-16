@@ -1,2 +1,2 @@
 # Molecule-Maker
-First major programming project. Written in C++.
+My first major programming project. Written in C++.
